@@ -3,9 +3,9 @@
 
 # 🌎 Projeto Steve
 
-### Ele conquistou o multiverso dos jogos. Agora vai conquistar o mundo real!
-
 <img src="https://github.com/Steve-Project-Open-Source/Tecnocient-Standards/blob/main/Projeto%20Steve_%20Companheiro%20do%20Multiverso.png" alt="Projeto Steve — do jogo para a vida real" width="100%">
+
+### Ele conquistou o multiverso dos jogos. Agora vai conquistar o mundo real!
 
 **Seu companheiro virtual, sua próxima aventura.** 💚
 
