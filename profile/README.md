@@ -129,11 +129,11 @@ Realidade virtual, ambientes imersivos, dispositivos inteligentes e outras tecno
 
 Qualquer pessoa disposta a acrescentar algo ao grimório.
 
-- **Desenvolvedores** podem escrever novos encantamentos.
-- **Criadores** podem imaginar novas formas para Steve existir.
-- **Pesquisadores** podem experimentar integrações com IA e outras tecnologias.
-- **Entusiastas** podem testar, sugerir e ajudar a moldar o projeto.
-- **A comunidade** pode decidir quais portais vale a pena abrir.
+ **Desenvolvedores** podem escrever novos encantamentos.
+ **Criadores** podem imaginar novas formas para Steve existir.
+ **Pesquisadores** podem experimentar integrações com IA e outras tecnologias.
+ **Entusiastas** podem testar, sugerir e ajudar a moldar o projeto.
+ **A comunidade** pode decidir quais portais vale a pena abrir.
 
 Não é necessário ser um mago de nível 100.
 
