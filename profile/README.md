@@ -167,11 +167,11 @@ E as possibilidades dependem do que formos capazes de construir.
 
 Este projeto pode causar:
 
-- Vontade inexplicável de adicionar mais uma funcionalidade.
-- Discussões filosóficas sobre a consciência de um homem quadrado.
-- Repositórios secundários dedicados a ensinar Steve a fazer coisas questionáveis.
-- Um backlog que cresce mais rápido que uma vila de Minecraft.
-- A pergunta recorrente: *“Tá, mas e se colocarmos IA nisso?”*
+  Vontade inexplicável de adicionar mais uma funcionalidade.
+  Discussões filosóficas sobre a consciência de um homem quadrado.
+  Repositórios secundários dedicados a ensinar Steve a fazer coisas questionáveis.
+  Um backlog que cresce mais rápido que uma vila de Minecraft.
+  A pergunta recorrente: *“Tá, mas e se colocarmos IA nisso?”*
 
 Os responsáveis pelo grimório não se responsabilizam por encantamentos compilados às três da manhã.
 
