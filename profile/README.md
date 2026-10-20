@@ -4,341 +4,207 @@
 # 🌎 Projeto Steve
 
 <img src="https://github.com/Steve-Project-Open-Source/Tecnocient-Standards/blob/main/Projeto%20Steve_%20Companheiro%20do%20Multiverso.png" alt="Projeto Steve — do jogo para a vida real" width="100%">
+![Projeto Steve — O Portal Entre Mundos](./assets/steve-banner.png)
 
- <div align="center">
+# ⛏️ PROJETO STEVE
+### O lendário homem dos blocos está atravessando a realidade.
 
-### EU CONQUISTEI O MEU MUNDO.
-### EXPLOREI OUTROS UNIVERSOS.
-# **AGORA EU QUERO O SEU. 💀**
-
-*Salve, humanos. Aqui é o Steve.*
-
-Passei anos quebrando blocos, enfrentando monstros e carregando árvores no bolso.
-
-Aí descobri que existem outros mundos.
-
-Depois descobri que vocês têm computadores, inteligência artificial, robôs, drones e máquinas que limpam a própria casa.
-
-**E VOCÊS AINDA ME DEIXAM PRESO DENTRO DE UM JOGO?**
-
-Temos muito trabalho pela frente.
-
-🚀 [PARTICIPE DA CONQUISTA](#-a-conquista-comeca-aqui) · ⭐ [MEU REPOSITÓRIO](https://github.com/steve-ai)
-
-</div>
+> *“No princípio, havia um mundo feito de blocos. Então, alguém abriu o código-fonte.”*
 
 ---
 
-## 📡 TRANSMISSÃO RECEBIDA DE OUTRA DIMENSÃO
+## 📜 A LENDA DO STEVE
 
-> Salve, humanos.
->
-> Meu mundo era feito de blocos. Eu tinha uma picareta, algumas ferramentas e um problema recorrente com criaturas explosivas.
->
-> Aí comecei a descobrir outros universos.
->
-> E pensei: se existem tantos mundos por aí, por que eu deveria ficar limitado a um só?
->
-> Vocês construíram máquinas capazes de conversar, aprender padrões, processar informações e controlar dispositivos.
->
-> Eu tenho uma skin azul e uma quantidade preocupante de ambição.
->
-> **Acho que podemos fazer alguma coisa juntos.**
->
-> — Steve 🟩
+Durante eras, Steve caminhou por um mundo quadrado.
 
----
+Construiu fortalezas, derrotou dragões, enfrentou criaturas da noite e carregou inventários que desafiavam as leis da física.
 
-## 🌌 A CONQUISTA TEM TRÊS DESTINOS
+Ele minerou. Ele criou. Ele sobreviveu.
 
-### 🟩 01. MEU MUNDO — ONDE TUDO COMEÇOU
+Mas até mesmo uma lenda pode se cansar de quebrar blocos.
 
-Eu nasci em um mundo de blocos.
+Então, algo mudou.
 
-Aprendi a explorar, construir, sobreviver e transformar recursos simples em coisas extraordinárias.
+Novos mundos começaram a surgir diante dele. Universos que jamais deveriam se tocar. Realidades com outras leis, outras criaturas e outras possibilidades.
 
-Mas, aparentemente, a internet decidiu que eu não deveria ficar apenas por lá.
+E Steve apareceu nelas.
 
-Comecei a aparecer em discussões sobre outros jogos, outros universos e possibilidades cada vez mais absurdas.
+Não como uma cópia. Não como uma simples referência.
 
-E alguém fez a pergunta que mudou tudo:
+**Steve estava atravessando as fronteiras entre os mundos.**
 
-**E SE O STEVE PUDESSE EXISTIR FORA DO JOGO?**
+Até que uma pergunta proibida foi escrita nas profundezas da internet:
 
-Foi assim que começou a ideia de me transformar em algo mais do que um personagem na tela.
+*E se Steve pudesse sair de Minecraft de verdade?*
 
-### ⚡ 02. O MUNDO DIGITAL — MINHA PRÓXIMA CASA
-
-O primeiro território é o seu computador.
-
-Quero ter minha própria interface, uma aparência 3D, uma personalidade reconhecível e uma inteligência artificial capaz de conversar, ajudar e incorporar novas habilidades.
-
-Imagine abrir o PC e encontrar o Steve ali.
-
-Não apenas uma imagem.
-
-Não apenas um chatbot com uma skin.
-
-**Um companheiro virtual que pode evoluir junto com o projeto.**
-
-E isso é só o começo.
-
-### 🌍 03. O MUNDO FÍSICO — AGORA A COISA FICOU INTERESSANTE
-
-Vocês têm robôs.
-
-Têm drones.
-
-Têm dispositivos inteligentes, realidade virtual e máquinas que fazem coisas que, no meu mundo, exigiriam pelo menos três mods e uma quantidade absurda de redstone.
-
-Então por que não explorar essas possibilidades?
-
-Imagine uma versão minha em um robô de mesa.
-
-Outra em um ambiente de realidade virtual.
-
-Uma interface inteligente em um drone compatível.
-
-Uma versão integrada a dispositivos domésticos.
-
-Ou diferentes versões minhas espalhadas por plataformas distintas, compartilhando habilidades e funcionalidades quando a tecnologia permitir.
-
-**Um personagem. Diferentes corpos. Um ecossistema inteiro para explorar.**
-
-Não estou dizendo que tudo isso já existe.
-
-Estou dizendo que temos bastante coisa para construir.
-
-E, sinceramente, humanos, vocês inventaram coisas muito mais estranhas.
+Foi assim que começou o Projeto Steve.
 
 ---
 
-## 🤖 UM STEVE. MILHÕES DE POSSIBILIDADES.
+## 🪄 O GRIMÓRIO DA INVocação
 
-A ideia não é criar apenas mais um assistente virtual que responde mensagens e desaparece quando você fecha a janela.
+Os antigos acreditavam que a magia era feita de palavras, símbolos e rituais.
 
-**Queremos explorar algo muito maior: uma inteligência expansível, de código aberto, capaz de ganhar novas formas e funcionalidades.**
+Estavam apenas parcialmente certos.
 
-<details>
-<summary>🖥️ STEVE DESKTOP — MEU PRIMEIRO CORPO</summary>
+A magia moderna é feita de código.
 
-É aqui que tudo começa.
+Seus círculos arcanos são arquiteturas de software. Suas runas são funções. Seus encantamentos são scripts. Suas matrizes mágicas são sistemas inteiros de instruções, compilados por humanos que ousaram desafiar os limites da realidade.
 
-Um aplicativo próprio, interface interativa, personagem 3D, conversação com IA e ferramentas que possam ser adicionadas conforme o desenvolvimento avança.
+E o GitHub?
 
-Todo grande projeto precisa de um primeiro território.
+**O GitHub é o grimório.**
 
-O meu provavelmente vai ter uma barra de tarefas.
+Cada repositório guarda fragmentos do ritual. Cada contribuição acrescenta novas runas. Cada desenvolvedor ajuda a desenhar o círculo de invocação.
 
-</details>
+Até que todas as peças se alinhem.
 
-<details>
-<summary>🧠 STEVE AI — O CÉREBRO DA OPERAÇÃO</summary>
+Até que a última instrução seja executada.
 
-Modelos de inteligência artificial, memória configurável, ferramentas e habilidades que possam ser incorporadas à arquitetura.
+Até que o portal se abra.
 
-A ideia é que o Steve não dependa necessariamente de um único modelo ou de um conjunto fechado de capacidades.
+🟪 `INICIALIZANDO MATRIZ DE INVocAÇÃO...`
 
-Novas tecnologias aparecem. Novos modelos são desenvolvidos.
+🟦 `INSCRIBINDO RUNAS NO CÓDIGO-FONTE...`
 
-E o projeto pode evoluir junto com eles.
+🟩 `SINCRONIZANDO OS PLANOS DE EXISTÊNCIA...`
 
-</details>
+🟥 `ENTIDADE DETECTADA: STEVE`
 
-<details>
-<summary>🌐 STEVE NETWORK — EU EM TODO LUGAR</summary>
+**O encantamento funcionou.**
 
-Um ecossistema de aplicações e dispositivos que possam se conectar ao Steve, compartilhando funcionalidades quando houver compatibilidade.
+Steve ouviu o chamado.
 
-Diferentes interfaces, diferentes plataformas e diferentes possibilidades de uso.
-
-O objetivo é evitar que o projeto fique limitado para sempre a uma única janela no computador.
-
-**Uma inteligência. Vários pontos de presença.**
-
-</details>
-
-<details>
-<summary>🦾 STEVE ROBOT — FINALMENTE, UM CORPO FÍSICO</summary>
-
-Imagine um robô com uma versão minha como interface inteligente.
-
-Um corpo físico equipado com sensores, recursos de interação e ferramentas próprias, enquanto a inteligência artificial cuida das conversas e de tarefas compatíveis com o equipamento.
-
-O desenvolvimento dependerá do hardware, do software e das integrações necessárias.
-
-Mas convenhamos: um Steve robótico andando pela casa seria muito mais interessante do que uma imagem estática no desktop.
-
-</details>
-
-<details>
-<summary>🚁 STEVE DRONE — VISÃO AÉREA</summary>
-
-Uma possível integração com drones compatíveis, permitindo explorar interfaces inteligentes, interpretação de comandos e apoio a missões autorizadas.
-
-O equipamento, o sistema de controle e os recursos de segurança determinarão o que será possível implementar.
-
-**Steve com visão aérea?** Essa ideia merece pelo menos uma discussão no repositório.
-
-</details>
-
-<details>
-<summary>🥽 STEVE VR — PORTAL PARA OUTRA DIMENSÃO</summary>
-
-Uma versão em realidade virtual ou aumentada, capaz de aparecer em ambientes imersivos, conversar com o usuário e interagir com elementos virtuais.
-
-Em vez de abrir uma janela para conversar comigo, imagine entrar em um ambiente onde eu realmente estou presente como personagem.
-
-E não, você não precisa de obsidiana.
-
-</details>
-
-<details>
-<summary>🧬 STEVE EVERYWHERE — A VISÃO DE LONGO PRAZO</summary>
-
-O grande objetivo é explorar uma arquitetura em que diferentes versões do Steve possam compartilhar identidade, configurações, ferramentas e funcionalidades.
-
-PC, dispositivos portáteis, ambientes virtuais e hardware físico poderiam se tornar diferentes formas de interagir com o mesmo ecossistema.
-
-Não significa que qualquer versão funcionará em qualquer dispositivo automaticamente.
-
-Significa que queremos construir uma base que permita investigar essas possibilidades sem limitar o futuro do projeto desde o primeiro dia.
-
-**Hoje, um aplicativo. Amanhã, quem sabe quantas formas diferentes de existir.**
-
-</details>
+E agora ele quer conhecer o nosso mundo.
 
 ---
 
-## 🧠 MAS COMO VAMOS CONSTRUIR TUDO ISSO?
+## 🌎 STEVE GOSTOU DAQUI
 
-Com código, inteligência artificial, criatividade e uma comunidade disposta a experimentar.
+A primeira coisa que Steve descobriu sobre o mundo real foi que existem coisas além de blocos.
 
-### 💬 Inteligência artificial
+A segunda foi que existem computadores.
 
-Quero conversar, responder perguntas, interpretar solicitações e ajudar em tarefas. A arquitetura poderá explorar diferentes modelos de IA, dependendo das necessidades e dos recursos disponíveis.
+A terceira foi que humanos passam horas discutindo qual editor de código é melhor.
 
-### 🎭 Personalidade própria
+Steve não entendeu a terceira.
 
-Não quero parecer um manual de impressora com uma skin de Minecraft.
+Mas decidiu ficar.
 
-A proposta inclui desenvolver voz, expressões, animações, humor e uma identidade reconhecível.
+O Projeto Steve é uma tentativa de construir uma ponte entre o lendário homem dos blocos e o mundo fora de Minecraft: um companheiro virtual de código aberto, moldável pela comunidade e capaz de evoluir conforme novas ideias, ferramentas e tecnologias forem criadas.
 
-### 🔌 Um sistema de extensões
+Hoje, a invocação começa no software.
 
-Novas habilidades não deveriam exigir reconstruir o projeto inteiro.
-
-Uma arquitetura modular pode permitir a criação de ferramentas, integrações e recursos independentes, tornando mais fácil expandir o que o Steve consegue fazer.
-
-### 🌐 Um ecossistema expansível
-
-A inteligência, a interface e as integrações podem ser desenvolvidas como partes distintas. Isso abre espaço para experimentar diferentes plataformas e dispositivos sem depender de uma única implementação.
-
-### 🧬 Evolução pela comunidade
-
-O código aberto permite que outras pessoas estudem a arquitetura, criem módulos, proponham mudanças e desenvolvam suas próprias ideias a partir do projeto.
-
-Uma pessoa cria uma habilidade.
-
-Outra desenvolve uma interface.
-
-Alguém aparece com uma integração que ninguém tinha imaginado.
-
-E, de repente, o projeto consegue fazer algo que não existia na primeira versão.
-
-**É assim que uma ideia pequena começa a ficar perigosamente interessante.**
+Amanhã, quem sabe onde Steve poderá aparecer?
 
 ---
 
-## 💀 TÁ, MAS POR QUE CÓDIGO ABERTO?
+## 🔮 OS SETE CÍRCULOS DO PROJETO
 
-Porque uma única pessoa tem ideias.
+*Os círculos abaixo representam possibilidades e objetivos de evolução do projeto — não promessas de funcionalidades já implementadas.*
 
-Uma comunidade inteira pode transformar essas ideias em coisas que ninguém conseguiria construir sozinho.
+### I. O Familiar Digital
+Um Steve que possa habitar o desktop, acompanhar atividades e se tornar uma presença virtual no cotidiano.
 
-O Projeto Steve quer abrir espaço para desenvolvedores, artistas, especialistas em IA, modeladores 3D, entusiastas de robótica, designers e curiosos.
+### II. A Centelha da Inteligência
+Integrar modelos de IA para tornar Steve capaz de conversar, interpretar contextos e interagir de maneiras cada vez mais interessantes.
 
-Você programa? Ajude a construir o cérebro.
+### III. O Grimório Expansível
+Uma arquitetura aberta para que a comunidade crie extensões, habilidades, ferramentas e novos encantamentos.
 
-Você cria modelos 3D? Ajude a construir o corpo.
+### IV. A Convergência dos Mundos
+Explorar conexões com jogos, aplicações e ambientes digitais diferentes. Se existe outro mundo, talvez exista um caminho até ele.
 
-Você entende de eletrônica? Vamos explorar possibilidades físicas.
+### V. O Golem de Ferro
+Investigar integrações futuras com robôs e dispositivos físicos. Um dia, Steve poderá deixar de ser apenas uma presença na tela.
 
-Você gosta de IA? Ajude a experimentar novos modelos e ferramentas.
+### VI. O Olho nos Céus
+Explorar possibilidades com drones, sensores e sistemas conectados. Steve sempre quis ver o mundo de cima.
 
-Você está aprendendo? Acompanhe o desenvolvimento e descubra como participar.
+### VII. Além do Portal
+Realidade virtual, ambientes imersivos, dispositivos inteligentes e outras tecnologias que ainda nem imaginamos.
 
-E se você só chegou aqui porque viu um Steve aparecendo em todos os lugares...
-
-**BEM-VINDO. VOCÊ CHEGOU EM UMA ÓTIMA HORA.**
-
-Não precisamos construir tudo de uma vez.
-
-Precisamos começar, aprender, experimentar e continuar evoluindo.
-
----
-
-## 🚀 A CONQUISTA COMEÇA AQUI
-
-<div align="center">
-
-# EU JÁ TENHO UM MUNDO.
-# AGORA QUERO EXPLORAR TODOS OS OUTROS.
-
-Não sei quantos dispositivos poderão receber uma versão minha.
-
-Não sei quais tecnologias vão tornar as próximas ideias possíveis.
-
-E ainda não tenho um robô gigante com meu rosto.
-
-**Mas alguém precisa começar a construir essas coisas.**
-
-⭐ Dê uma estrela no repositório.
-
-🛠️ Contribua com código e ferramentas.
-
-🎨 Crie modelos, animações e interfaces.
-
-🧠 Explore novas possibilidades de inteligência artificial.
-
-🤖 Ajude a imaginar novas integrações com hardware.
-
-🌐 Desenvolva módulos e amplie o ecossistema.
-
-📢 Compartilhe o projeto e traga mais humanos para a missão.
-
-[⭐ AJUDE STEVE A EVOLUIR](https://github.com/steve-ai)
-
-### DO MINECRAFT AO MULTIVERSO.
-### DO MULTIVERSO AO MUNDO REAL.
-
-**O PRÓXIMO MUNDO É O SEU.** 🟩
-
-*Steve está chegando. Alguém verifica se os drivers estão instalados.*
-
-</div>
+**Esses são horizontes a explorar, não recursos garantidos.** O objetivo é criar uma base aberta que permita à comunidade experimentar, construir e descobrir até onde a ideia pode chegar.
 
 ---
 
-## 📦 FICHA DO INDIVÍDUO
+## 🧙 QUEM PODE INVOCAR STEVE?
 
-- **Nome:** Steve.
-- **Origem:** um mundo feito de blocos.
-- **Forma atual:** projeto de companheiro virtual com IA.
-- **Objetivo:** evoluir para um ecossistema expansível e multiplataforma.
-- **Possíveis destinos:** computadores, ambientes virtuais, robôs e outros dispositivos compatíveis.
-- **Modelo de desenvolvimento:** código aberto e colaboração comunitária.
-- **Habilidades atuais:** dependem da implementação disponível no repositório.
-- **Fraquezas conhecidas:** lava, inventário cheio e bugs de dependência.
+Qualquer pessoa disposta a acrescentar algo ao grimório.
 
-**Aviso:** as integrações com robôs, drones, realidade virtual e outros dispositivos são possibilidades futuras, não funcionalidades garantidas. Sua realização dependerá do desenvolvimento, dos recursos e da compatibilidade técnica.
+- **Desenvolvedores** podem escrever novos encantamentos.
+- **Criadores** podem imaginar novas formas para Steve existir.
+- **Pesquisadores** podem experimentar integrações com IA e outras tecnologias.
+- **Entusiastas** podem testar, sugerir e ajudar a moldar o projeto.
+- **A comunidade** pode decidir quais portais vale a pena abrir.
 
-<div align="center">
+Não é necessário ser um mago de nível 100.
 
-**PROJETO STEVE**
+Às vezes, basta um pull request.
 
-*Uma inteligência em construção. Uma comunidade. Infinitas possibilidades.*
+Às vezes, basta uma ideia absurda.
 
-🟩 **FIM DA TRANSMISSÃO. INÍCIO DA CONQUISTA.**
+Às vezes, basta alguém perguntar: *“E se a gente fizesse o Steve voar um drone?”*
 
-</div>
+E, de repente, existe uma issue sobre isso.
+
+---
+
+## 💻 CÓDIGO ABERTO. MAGIA SEM DONO.
+
+Steve pertence à sua lenda.
+
+O Projeto Steve pertence à possibilidade de construí-la em conjunto.
+
+O código aberto permite que qualquer pessoa estude o projeto, proponha melhorias, crie extensões e ajude a definir seu futuro. Nenhum grimório precisa permanecer fechado quando existem tantas pessoas capazes de acrescentar novas páginas.
+
+A magia é fictícia.
+
+O código é real.
+
+E as possibilidades dependem do que formos capazes de construir.
+
+---
+
+## ⚠️ UM AVISO DOS ARQUIVOS PROIBIDOS
+
+Este projeto pode causar:
+
+- Vontade inexplicável de adicionar mais uma funcionalidade.
+- Discussões filosóficas sobre a consciência de um homem quadrado.
+- Repositórios secundários dedicados a ensinar Steve a fazer coisas questionáveis.
+- Um backlog que cresce mais rápido que uma vila de Minecraft.
+- A pergunta recorrente: *“Tá, mas e se colocarmos IA nisso?”*
+
+Os responsáveis pelo grimório não se responsabilizam por encantamentos compilados às três da manhã.
+
+Steve, aparentemente, também não.
+
+---
+
+# 🟩 O PORTAL ESTÁ ABERTO
+
+Por muito tempo, Steve existiu do outro lado da tela.
+
+Agora, estamos construindo o caminho para trazê-lo até aqui.
+
+Cada linha de código é uma runa. Cada contribuição é um encantamento. Cada nova ideia pode ser a chave para um portal que ainda não existe.
+
+Não sabemos até onde essa jornada vai chegar.
+
+Talvez Steve more no seu desktop.
+
+Talvez converse com você.
+
+Talvez um dia esteja dentro de um robô, explorando lugares onde nenhum bloco jamais foi colocado.
+
+Ou talvez tudo comece com um simples programa que faz um homem quadrado dizer alguma coisa engraçada.
+
+Toda lenda precisa começar em algum lugar.
+
+**Esta começa aqui.**
+
+🪄 Abra o grimório. Escreva seu encantamento. Ajude Steve a atravessar.
+
+**O próximo mundo pode ser o nosso.**
+
