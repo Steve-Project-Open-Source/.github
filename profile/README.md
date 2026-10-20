@@ -38,7 +38,7 @@ Foi assim que começou o Projeto Steve.
 
 ---
 
-## 🪄 O GRIMÓRIO DA INVocação
+## 🪄 O GRIMÓRIO DA Invocação
 
 Os antigos acreditavam que a magia era feita de palavras, símbolos e rituais.
 
