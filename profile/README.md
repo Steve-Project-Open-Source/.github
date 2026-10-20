@@ -1,10 +1,7 @@
 
 <div align="center">
 
-# 🌎 Projeto Steve
-
 <img src="https://github.com/Steve-Project-Open-Source/Tecnocient-Standards/blob/main/Projeto%20Steve_%20Companheiro%20do%20Multiverso.png" alt="Projeto Steve — do jogo para a vida real" width="100%">
-![Projeto Steve — O Portal Entre Mundos](./assets/steve-banner.png)
 
 # ⛏️ PROJETO STEVE
 ### O lendário homem dos blocos está atravessando a realidade.
