@@ -205,3 +205,4 @@ Toda lenda precisa começar em algum lugar.
 
 **O próximo mundo pode ser o nosso.**
 
+**Discord:https://discord.gg/R9yGHDPnQz **
