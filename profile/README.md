@@ -6,6 +6,8 @@
 # ⛏️ PROJETO STEVE
 ### O lendário homem dos blocos está atravessando a realidade.
 
+**Discord:https://discord.gg/R9yGHDPnQz **
+
 > *“No princípio, havia um mundo feito de blocos. Então, alguém abriu o código-fonte.”*
 
 ---
@@ -204,5 +206,3 @@ Toda lenda precisa começar em algum lugar.
 🪄 Abra o grimório. Escreva seu encantamento. Ajude Steve a atravessar.
 
 **O próximo mundo pode ser o nosso.**
-
-**Discord:https://discord.gg/R9yGHDPnQz **
